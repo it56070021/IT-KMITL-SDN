@@ -1,1 +1,1 @@
-{"ecmp_stddev_gbps": 0.7147633163413628, "ecmp_mean_gbps": 7.052952213386489, "gff_stddev_gbps": 0.8751958601067151, "gff_mean_gbps": 8.067894463609957}
+{"gff_stddev_gbps": 0.7430518126492107, "none_mean_gbps": 14.543099631550149, "none_stddev_gbps": 0.8474133014845308, "ecmp_mean_gbps": 14.979328958293681, "gff_mean_gbps": 13.816705087728238, "ecmp_stddev_gbps": 0.7232062904677723}
